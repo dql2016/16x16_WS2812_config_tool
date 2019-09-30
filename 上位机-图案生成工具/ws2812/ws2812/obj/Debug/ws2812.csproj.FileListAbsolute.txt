@@ -1,0 +1,10 @@
+C:\Users\qldeng\source\repos\ws2812\ws2812\bin\Debug\ws2812.exe.config
+C:\Users\qldeng\source\repos\ws2812\ws2812\bin\Debug\ws2812.exe
+C:\Users\qldeng\source\repos\ws2812\ws2812\bin\Debug\ws2812.pdb
+C:\Users\qldeng\source\repos\ws2812\ws2812\obj\Debug\ws2812.Form1.resources
+C:\Users\qldeng\source\repos\ws2812\ws2812\obj\Debug\ws2812.Properties.Resources.resources
+C:\Users\qldeng\source\repos\ws2812\ws2812\obj\Debug\ws2812.csproj.GenerateResource.cache
+C:\Users\qldeng\source\repos\ws2812\ws2812\obj\Debug\ws2812.csproj.CoreCompileInputs.cache
+C:\Users\qldeng\source\repos\ws2812\ws2812\obj\Debug\ws2812.exe
+C:\Users\qldeng\source\repos\ws2812\ws2812\obj\Debug\ws2812.pdb
+C:\Users\qldeng\source\repos\ws2812\ws2812\obj\Debug\ws2812.csprojAssemblyReference.cache
